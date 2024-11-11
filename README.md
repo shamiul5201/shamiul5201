@@ -38,6 +38,7 @@ I’m exploring AI after completing my **BSc in Computing** from the **Universit
 
 💡 I aim to post regularly and keep the content interesting and useful. Feel free to leave your feedback—I’d love to hear your thoughts!
 
+<details>
 <summary>
   
 📂Click to see all my blog posts on AI, computer vision, and data science
@@ -50,7 +51,7 @@ I’m exploring AI after completing my **BSc in Computing** from the **Universit
 | 2024-10-23 | [Project: Virtual Makeup — Eye Liner](https://medium.com/@shamiulislamnoyon/project-virtual-makeup-eye-liner-f75805017349)                                                                                                                                       |
 | 2024-10-23 | [Project: Virtual Makeup — Apply Lipstick](https://medium.com/@shamiulislamnoyon/project-virtual-makeup-apply-lipstick-1917a3403a66)                                                                                                                |
 | 2024-07-08 | [Learning Artificial Intelligence In Healthcare](https://medium.com/@shamiulislamnoyon/learning-artificial-intelligence-in-healthcare-7c111fbbe261)                                                                                                   |
-                                                            
+</details>                                                            
 ---
 
 ### My Downtime
