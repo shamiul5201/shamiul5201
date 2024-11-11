@@ -40,9 +40,7 @@ I’m exploring AI after completing my **BSc in Computing** from the **Universit
 
 <details>
 <summary>
-  
 📂Click to see all my blog posts on AI, computer vision, and data science
-  
 </summary>
 
 | Date       | Title                                                                                                                           |
@@ -50,9 +48,9 @@ I’m exploring AI after completing my **BSc in Computing** from the **Universit
 | 2024-11-05 | [Exploring the Foundations of Computer Vision and Image Processing](https://medium.com/@shamiulislamnoyon/exploring-the-foundations-of-computer-vision-and-image-processing-a968f983b4f7)                                                                                                                |
 | 2024-10-23 | [Project: Virtual Makeup — Eye Liner](https://medium.com/@shamiulislamnoyon/project-virtual-makeup-eye-liner-f75805017349)                                                                                                                                       |
 | 2024-10-23 | [Project: Virtual Makeup — Apply Lipstick](https://medium.com/@shamiulislamnoyon/project-virtual-makeup-apply-lipstick-1917a3403a66)                                                                                                                |
-| 2024-07-08 | [Learning Artificial Intelligence In Healthcare](https://medium.com/@shamiulislamnoyon/learning-artificial-intelligence-in-healthcare-7c111fbbe261)                                                                                                   |
-</details>                                                            
----
+| 2024-07-08 | [Learning Artificial Intelligence In Healthcare](https://medium.com/@shamiulislamnoyon/learning-artificial-intelligence-in-healthcare-7c111fbbe261)                                                                                                  |
+</details>  
+
 
 ### My Downtime
 
