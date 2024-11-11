@@ -7,9 +7,11 @@ I’m exploring AI after completing my **BSc in Computing** from the **Universit
 [![](https://img.shields.io/badge/-shamiul%20islam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sham-islam/)](https://www.linkedin.com/in/sham-islam/)
 [![](https://img.shields.io/badge/-@ShamiulIsl29689-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://x.com/ShamiulIsl29689)
 
+---
 
 [![Shamiul's GitHub stats](https://github-readme-stats.vercel.app/api?username=shamiul5201&show_icons=true&theme=transparent)](https://github.com/shamiul5201)
 
+--- 
 
 ### Skills
 | **Core Skills**                                | **Skills in Progress**                     | **Future Learning Goals**           |
@@ -26,6 +28,7 @@ I’m exploring AI after completing my **BSc in Computing** from the **Universit
 | Image Segmentation                             |                                            |                                     |
 | Image Processing                               |                                            |                                     |
 
+---
 
 ### Blog Posts
 
@@ -35,9 +38,10 @@ I’m exploring AI after completing my **BSc in Computing** from the **Universit
 
 💡 I aim to post regularly and keep the content interesting and useful. Feel free to leave your feedback—I’d love to hear your thoughts!
 
-<details>
 <summary>
+  
 📂Click to see all my blog posts on AI, computer vision, and data science
+  
 </summary>
 
 | Date       | Title                                                                                                                           |
@@ -46,9 +50,8 @@ I’m exploring AI after completing my **BSc in Computing** from the **Universit
 | 2024-10-23 | [Project: Virtual Makeup — Eye Liner](https://medium.com/@shamiulislamnoyon/project-virtual-makeup-eye-liner-f75805017349)                                                                                                                                       |
 | 2024-10-23 | [Project: Virtual Makeup — Apply Lipstick](https://medium.com/@shamiulislamnoyon/project-virtual-makeup-apply-lipstick-1917a3403a66)                                                                                                                |
 | 2024-07-08 | [Learning Artificial Intelligence In Healthcare](https://medium.com/@shamiulislamnoyon/learning-artificial-intelligence-in-healthcare-7c111fbbe261)                                                                                                   |
-                                                            |
-</details>
-
+                                                            
+---
 
 ### My Downtime
 
@@ -60,8 +63,10 @@ I enjoy relaxing with a few favorite platforms and activities:
     <img src="https://img.shields.io/badge/Apple%20TV-000000?style=for-the-badge&logo=appletv&logoColor=white" alt="Apple TV" />
 </p>
 
+---
 
 ### Languages 
+
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shamiul5201&layout=compact&hide=css,html,handlebars)](https://github.com/shamiul5201)
 
 
