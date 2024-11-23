@@ -1,5 +1,5 @@
-### Hi There👋, 
-I am **Shamiul Islam**, an AI and Computer Vision Expert with a passion for creating innovative solutions that combine technology and real-world impact. My expertise spans **Computer Vision**, **Deep Learning**, **Image Segmentation**, **Image Classification**, **Object Detection**, **Object Tracking**, **Machine Learning** and **Artificial Intelligence**, enabling me to develop intelligent systems that address real-world challenges. I’ve worked on diverse projects, including **Posture Analysis**, **Drowsy Driver Detection**, **Number Plate Detection**, **Snapchat Filters**, **Face Recognition**, and a **Custom Object Detector using YOLO**. My portfolio also features work in **Text Detection and Recognition**, **Image Classification** and **Image Segmentation**, showcasing my versatility and problem-solving capabilities in the field. With a strong foundation in deep learning and a commitment to excellence, I am dedicated to delivering impactful and innovative AI solutions.
+### Hi there👋, 
+I am **Shamiul Islam**, an AI and Computer Vision Engineer with a passion for creating innovative solutions that combine technology and real-world impact. My expertise spans **Computer Vision**, **Deep Learning**, **Image Segmentation**, **Image Classification**, **Object Detection**, **Object Tracking**, **Machine Learning** and **Artificial Intelligence**, enabling me to develop intelligent systems that address real-world challenges. I’ve worked on diverse projects, including **Posture Analysis**, **Drowsy Driver Detection**, **Number Plate Detection**, **Snapchat Filters**, **Face Recognition**, and a **Custom Object Detector using YOLO**. My portfolio also features work in **Text Detection and Recognition**, **Image Classification** and **Image Segmentation**, showcasing my versatility and problem-solving capabilities in the field. With a strong foundation in deep learning and a commitment to excellence, I am dedicated to delivering impactful and innovative AI solutions.
 
 
 
@@ -7,28 +7,24 @@ I am **Shamiul Islam**, an AI and Computer Vision Expert with a passion for crea
 [![](https://img.shields.io/badge/-shamiul%20islam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sham-islam/)](https://www.linkedin.com/in/sham-islam/)
 [![](https://img.shields.io/badge/-@ShamiulIsl29689-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://x.com/ShamiulIsl29689)
 
----
+--- 
 
 [![Shamiul's GitHub stats](https://github-readme-stats.vercel.app/api?username=shamiul5201&show_icons=true&theme=transparent)](https://github.com/shamiul5201)
 
---- 
+---
 
-### Skills
-| **Core Skills**                                | **Skills in Progress**                     | **Future Learning Goals**           |
-|------------------------------------------------|--------------------------------------------|-------------------------------------|
-| Python                                         | OCR                                        | Diffusion Models                    |
-| TensorFlow                                     | Object Detection                           | Generative AI                       |
-| Convolutional Neural Networks                  | Object Tracking                            |                                     |
-| Deep Learning                                  | Pose Estimation                            |                                     |
-| Face Recognition                               | PyTorch                                    |                                     |
-| Face Detection                                 | YOLO                                       |                                     |
-| Image Analysis                                 |                                            |                                     |
-| Image Classification                           |                                            |                                     |
-| Image Recognition                              |                                            |                                     |
-| Image Segmentation                             |                                            |                                     |
-| Image Processing                               |                                            |                                     |
+## Skills
+
+| **Category**            | **Skills**                                                                                                                                                                      |
+|-------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Programming Languages**| ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white&size=40x40)                                                                         |
+| **Computer Vision**      | ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white&size=40x40)  ![YOLO](https://img.shields.io/badge/-YOLO-FFCC00?style=flat&logo=python&logoColor=white&size=40x40)  ![Image Segmentation](https://img.shields.io/badge/-Image%20Segmentation-0368D6?style=flat&logo=python&logoColor=white&size=40x40)  ![Object Detection](https://img.shields.io/badge/-Object%20Detection-1D3C6A?style=flat&logo=python&logoColor=white&size=40x40)  ![Image Classification](https://img.shields.io/badge/-Image%20Classification-2D8F6D?style=flat&logo=python&logoColor=white&size=40x40) | 
+| **Deep Learning & AI**   | ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white&size=40x40)  ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white&size=40x40)  ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=white&size=40x40)  |
+| **Machine Learning**     | ![Scikit-learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white&size=40x40)  ![XGBoost](https://img.shields.io/badge/-XGBoost-FF6F00?style=flat&logo=xgboost&logoColor=white&size=40x40) | 
+
 
 ---
+
 
 ### Blog Posts
 
