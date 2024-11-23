@@ -1,6 +1,6 @@
-### Hi 👋, I'm Shamiul Islam
+### Hi There👋, 
+I am **Shamiul Islam**, an AI and Computer Vision Expert with a passion for creating innovative solutions that combine technology and real-world impact. My expertise spans **Computer Vision**, **Deep Learning**, **Image Segmentation**, **Image Classification**, **Object Detection**, **Object Tracking**, **Machine Learning** and **Artificial Intelligence**, enabling me to develop intelligent systems that address real-world challenges. I’ve worked on diverse projects, including **Posture Analysis**, **Drowsy Driver Detection**, **Number Plate Detection**, **Snapchat Filters**, **Face Recognition**, and a **Custom Object Detector using YOLO**. My portfolio also features work in **Text Detection and Recognition**, **Image Classification** and **Image Segmentation**, showcasing my versatility and problem-solving capabilities in the field. With a strong foundation in deep learning and a commitment to excellence, I am dedicated to delivering impactful and innovative AI solutions.
 
-I’m exploring AI after completing my **BSc in Computing** from the **University of Greenwich**, focusing on image processing, deep learning, and computer vision. My core strengths include **Python**, **TensorFlow**, and **CNNs**, as well as **face recognition** and **image segmentation**. Currently, I’m working on **OCR**, **object detection**, and **pose estimation**, with plans to dive into **diffusion models** and **generative AI** soon.
 
 
 [![](https://img.shields.io/badge/-@shamiul5201-%23181717?style=flat-square&logo=github)](https://github.com/shamiul5201)
