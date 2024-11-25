@@ -28,16 +28,8 @@ I am **Shamiul Islam**, an AI and Computer Vision Engineer with a passion for cr
 
 ### Blog Posts
 
-🚀 Check out my blog on [Medium](https://medium.com/@shamiulislamnoyon) where I share insights and tutorials on AI, computer vision, and data science!
+🚀 Check out my blog on [Medium](https://medium.com/@shamiulislamnoyon) where I share my findings on AI, computer vision, and data science!
 
-📅 I try to publish a new blog every **15 days** when I have the time. My latest post was just **6 days ago**.
-
-💡 I aim to post regularly and keep the content interesting and useful. Feel free to leave your feedback—I’d love to hear your thoughts!
-
-<details>
-<summary>
-📂Click to see all my blog posts on AI, computer vision, and data science
-</summary>
 
 | Date       | Title                                                                                                                           |
 |:-----------|:--------------------------------------------------------------------------------------------------------------------------------|
@@ -45,18 +37,19 @@ I am **Shamiul Islam**, an AI and Computer Vision Engineer with a passion for cr
 | 2024-10-23 | [Project: Virtual Makeup — Eye Liner](https://medium.com/@shamiulislamnoyon/project-virtual-makeup-eye-liner-f75805017349)                                                                                                                                       |
 | 2024-10-23 | [Project: Virtual Makeup — Apply Lipstick](https://medium.com/@shamiulislamnoyon/project-virtual-makeup-apply-lipstick-1917a3403a66)                                                                                                                |
 | 2024-07-08 | [Learning Artificial Intelligence In Healthcare](https://medium.com/@shamiulislamnoyon/learning-artificial-intelligence-in-healthcare-7c111fbbe261)                                                                                                  |
-</details>  
+
 
 
 ### My Downtime
 
-I enjoy relaxing with a few favorite platforms and activities:
+When not working on AI projects, I engage with Generative AI, Stable Diffusion, and MidJourney for creative inspiration.
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Amazon%20Prime-00A8E1?style=for-the-badge&logo=amazonprime&logoColor=white" alt="Amazon Prime Video" />
-    <img src="https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white" alt="Netflix" />
-    <img src="https://img.shields.io/badge/Apple%20TV-000000?style=for-the-badge&logo=appletv&logoColor=white" alt="Apple TV" />
+    <img src="https://img.shields.io/badge/Generative%20AI-F2D200?style=for-the-badge&logo=robot&logoColor=white" alt="Generative AI" />
+    <img src="https://img.shields.io/badge/Stable%20Diffusion-7A7A7A?style=for-the-badge&logo=imagery&logoColor=white" alt="Stable Diffusion" />
+    <img src="https://img.shields.io/badge/MidJourney-5F005F?style=for-the-badge&logo=journey&logoColor=white" alt="MidJourney" />
 </p>
+
 
 ---
 
